@@ -1,1 +1,3 @@
-Minha primeir página da web , criada no bootcamp da DIO.
+Decola tech 3º edição :orange_book:
+
+Essa é minha primeira estilização de página da web com o CSS.
