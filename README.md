@@ -1,3 +1,3 @@
 Decola tech 3º edição :orange_book:
 
-Esse é meu primeiro desenvolvimento web com HTML e CSS.
+Essa é a primeira página da web que desenvolvi com HTML e CSS.
